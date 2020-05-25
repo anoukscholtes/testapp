@@ -1,5 +1,7 @@
 -f https://download.pytorch.org/whl/nightly/cpu/torch_nightly.html
-torch_nightly
+-f https://download.pytorch.org/whl/torch_stable.html torch==1.4.0
+
+torch
 fastai
 starlette
 uvicorn
